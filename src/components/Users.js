@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Api from '../Api';
+import Api from '../api/Api';
 import UserList from './UserList'
 
 class Users extends Component{
